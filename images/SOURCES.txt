@@ -1,0 +1,30 @@
+The Wizard Food Truck — image sources
+Downloaded 2026-09-28 for a Dev Forge ZA speculative GitHub Pages preview.
+
+== BUSINESS'S OWN PHOTOS (Roaming Hunger listing gallery) ==
+Listing: https://roaminghunger.com/the-wizard-food-truck/
+
+truck-side.jpg
+  Subject: The Wizard's purple-wrapped truck, side view ("The Wizard — A Magical Food Experience",
+  "Life is Short, Eat Great Food", "Ice Cold Drinks", "The Wizard Food Truck, LLC Rochester, MI").
+  Source: https://d3hbe0kmbam4a5.cloudfront.net/photos/51cb9c23-6ce7-4fc5-ae89-1e5f06128431.jpg
+  Used unmodified (re-saved JPEG, 1500x1125).
+
+truck-event.jpg
+  Subject: The Wizard truck parked and serving at a building entrance (on-site event service).
+  Source: https://d3hbe0kmbam4a5.cloudfront.net/photos/f34253f7-98fa-41d3-84a3-4d9c250ffe24.jpg
+  Resized from 4160x3120 to 1800px wide.
+
+NOT USED: Roaming Hunger "logo" photo 9e0a32d5-3cf4-48d7-9496-cde786704957.jpg is generic
+wizard clip art (stock illustration), so it was left out. The site uses a custom CSS/SVG star
+wordmark instead. Old Wix site images are template stock and were NOT used.
+
+== GAP-FILL STOCK (Unsplash License, free for commercial use; served from images.unsplash.com,
+   i.e. not Unsplash+). Chosen to match actual menu items. Replace with the truck's own food
+   photos when available. ==
+
+tacos.jpg            Tacos with lime and toppings        https://images.unsplash.com/photo-1565299585323-38d6b0865b47
+nachos.jpg           Loaded nachos in a black skillet    https://images.unsplash.com/photo-1582169296194-e4d644c48063
+spaghetti.jpg        Spaghetti twirled on a fork         https://images.unsplash.com/photo-1551892374-ecf8754cf8b0
+alfredo.jpg          Fettuccine Alfredo in a bowl        https://images.unsplash.com/photo-1645112411341-6c4fd023714a
+wizard-sandwich.jpg  Stacked deli meat & cheese sandwich https://images.unsplash.com/photo-1553909489-cd47e0907980
